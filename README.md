@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Salom, men Sirojiddin Ahmedov
 
-<!--
-**SirojiddinAhmedov/SirojiddinAhmedov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Dasturlashni o‘rganmoqdaman  
+🚀 Asosiy yo‘nalish: JavaScript, HTML, CSS  
 
-Here are some ideas to get you started:
+### 📌 Loyihalar
+- 🎮 Sof-Talim
+- 🧪 Mini mashqlar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Maqsad
+Kuchli developer bo‘lish va real loyihalarda qatnashish.
+
+### 📫 Aloqa
+Telegram: @noneadg
