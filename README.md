@@ -1,3 +1,5 @@
+![Banner](oy.jpg)
+
 ## 👋 Salom, men Sirojiddin Ahmedov
 
 💻 Dasturlashni o‘rganmoqdaman  
